@@ -40,3 +40,12 @@ This image shows some functions I created to make for better readability
  Using the System.IO using namespace we can write in files and write out files
 
  Basic Game also uses for each loops to cycle through file it is reading in
+ 
+ # Study App
+ 
+ Study App was an application created to randomize a user's studying experince
+ 
+ This current project is a work in progress, however the fundamentals of the program are there
+ 
+ The project currently produces a random question into the console on every startup
+ 
