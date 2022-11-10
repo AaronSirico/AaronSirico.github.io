@@ -9,7 +9,11 @@ An adventure game that uses C# fundamentals to have a player explore areas and a
 
 Random generator allows for the program to search through a list of strings and produce a random element in the console.
 
+Code Block: [
+
 List<string> Listy = new List<string>() { "one", "two", "three" };
 int r = MyRand.Next(Listy.Count);
 
 Console.WriteLine(Listy[r]);
+
+  ]
